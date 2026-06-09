@@ -214,11 +214,6 @@ Potential future enhancements include:
 
 ---
 
-
-```
-
----
-
 ## Author
 
 **Mirza Gohar Baig Barlas**
