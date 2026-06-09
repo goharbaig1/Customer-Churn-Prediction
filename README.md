@@ -125,7 +125,7 @@ Logistic Regression achieved the strongest overall performance, providing the be
 
 The dataset shows that approximately 27% of customers churned while 73% remained with the company.
 
-![Customer Churn Distribution](images/f1.png)
+![Customer Churn Distribution](images/1.png)
 
 ---
 
